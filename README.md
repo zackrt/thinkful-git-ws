@@ -41,4 +41,5 @@ Git is our coding time machine. Mistakes and errors in our code are inevitable. 
 [Take Home Problem](https://codepen.io/chrisbridges/pen/aRLQgo?editors=0010)
 
 test
-:)
+
+Hello!
